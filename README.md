@@ -14,13 +14,17 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />  
-  <br />
+
 ### 💡 Courses
   
 🎓 Yandex.Praktikum (Web Developer)  
 🔭 LearnJS (JavaScript course)  
 👨‍💻 Vladilen Minin (React Course)  
 🆚 Hours of YouYube videos  
+
+### About me:
+  
+I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
   
 ### Connect with me:
   
@@ -31,11 +35,7 @@
 
 <br />
 <br />
-
-
-### About me:
-  
-I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
+<br />
 
 [linkedin]: https://www.linkedin.com/in/alexander-bakay-b6b041224/
 [facebook]: https://www.facebook.com/alexanderbakay92
