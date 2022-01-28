@@ -16,6 +16,7 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
   
+  
 ### 💡 Courses
   
 🎓 Yandex.Praktikum (Web Developer)  
@@ -23,7 +24,7 @@
 👨‍💻 Vladilen Minin (React Course)  
 🆚 Hours of YouYube videos  
 
-### About me:
+### 🙋 About me:
   
 I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
   
