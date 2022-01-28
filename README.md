@@ -34,5 +34,9 @@
 <br />
 
 
+### About me:
+  
+I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
+
 [linkedin]: https://www.linkedin.com/in/alexander-bakay-b6b041224/
 [facebook]: https://www.facebook.com/alexanderbakay92
