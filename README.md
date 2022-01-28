@@ -4,12 +4,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bakay-b6b041224/)
 
 ## I'm in love with Frontend 🤤
+🔰 HTML, CSS, JS, React, Node.js, Webpack
+🔜 Sass, Redux, Vue
 
 ### 💡 Courses
 
-👨‍💻 Yandex.Praktikum (Web Developer)
-
+🎓 Yandex.Praktikum (Web Developer)
 🔭 LearnJS (JavaScript course)
+👨‍💻 Vladilen Minin (React Course)
+🆚 Hours of YouYube videos
 
 ### Connect with me:
 
