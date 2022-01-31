@@ -1,5 +1,9 @@
 ### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, junior Frontend Developer. I have experience in working with HTML5, CSS3, JavaScript, React and Node.js
 
+✉️ bakay.dvr@gmail.com
+🏠 Currently living at Taganrog
+💻 Junior Frontend Developer
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bakay-b6b041224/)
 
