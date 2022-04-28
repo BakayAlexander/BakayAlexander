@@ -14,15 +14,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <br />
-  
-  
-### 🎓  Courses
-  
-- Yandex.Praktikum (Web Developer)  
-- LearnJS (JavaScript course)  
-- Vladilen Minin (React course)
-- Alexander Lushenko (Arrays in JS course)  
-- Hours of YouYube videos
+
 
 ### 👨‍💻 My projects:
 - Static application: https://bakayalexander.github.io/balaklava-project/
@@ -32,6 +24,15 @@
 - SPA (React): https://mesto.bakay.students.nomoredomains.work/
 - Study diploma project (React): http://bakay.nomoredomains.work
 - Commercial application (React + Styled Components): https://magnolia-charter.com/
+  
+  
+### 🎓  Courses
+  
+- Yandex.Praktikum (Web Developer)  
+- LearnJS (JavaScript course)  
+- Vladilen Minin (React course)
+- Alexander Lushenko (Arrays in JS course)  
+- Hours of YouYube videos
 
 
 ### 🙋 About me:
