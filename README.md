@@ -4,7 +4,7 @@
 
 ## I'm in love with Frontend 👻
 ### Languages and Tools:
-🔰 HTML, CSS, JS, React, Node.js, Webpack, SCSS, Express.js, MongoDB 
+🔰 HTML, CSS, JS, React, Node.js, Webpack, SCSS, Express.js, MongoDB  
 🔜 TypeScript, Redux, Vue  
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
