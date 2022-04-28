@@ -16,14 +16,15 @@
 <br />
   
   
-### 💡 Courses
+### 🎓  Courses
   
-🎓 Yandex.Praktikum (Web Developer)  
-🔭 LearnJS (JavaScript course)  
-👨‍💻 Vladilen Minin (React Course)  
-🆚 Hours of YouYube videos
+- Yandex.Praktikum (Web Developer)  
+- LearnJS (JavaScript course)  
+- Vladilen Minin (React course)
+- Alexander Lushenko (Arrays in JS course)  
+- Hours of YouYube videos
 
-### My projects:
+### 👨‍💻 My projects:
 - Static application: https://bakayalexander.github.io/balaklava-project/
 - Adaptive application: https://bakayalexander.github.io/russian-travel/
 - Vanilla JS(OOP): https://github.com/BakayAlexander/mesto
