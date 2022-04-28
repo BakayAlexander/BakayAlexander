@@ -21,7 +21,14 @@
 🎓 Yandex.Praktikum (Web Developer)  
 🔭 LearnJS (JavaScript course)  
 👨‍💻 Vladilen Minin (React Course)  
-🆚 Hours of YouYube videos  
+🆚 Hours of YouYube videos
+
+### My projects:
+- Static application: https://bakayalexander.github.io/balaklava-project/
+- Adaptive application: https://bakayalexander.github.io/russian-travel/
+- Routing: https://bakayalexander.github.io/blog-react
+- SPA: https://mesto.bakay.students.nomoredomains.work/
+- Study diploma project: http://bakay.nomoredomains.work
 
 ### 🙋 About me:
   
