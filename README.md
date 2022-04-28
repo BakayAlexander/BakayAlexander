@@ -26,10 +26,12 @@
 ### My projects:
 - Static application: https://bakayalexander.github.io/balaklava-project/
 - Adaptive application: https://bakayalexander.github.io/russian-travel/
+- Vanilla JS(OOP): https://github.com/BakayAlexander/mesto
 - Routing: https://bakayalexander.github.io/blog-react
 - SPA: https://mesto.bakay.students.nomoredomains.work/
 - Study diploma project: http://bakay.nomoredomains.work
 - Commercial application: https://magnolia-charter.com/
+
 
 ### 🙋 About me:
   
