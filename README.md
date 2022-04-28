@@ -17,7 +17,7 @@
 
 
 ### 👨‍💻 My projects:
-- Static application: https://bakayalexander.github.io/balaklava-project/
+- Static application: [Balaklava project](https://bakayalexander.github.io/balaklava-project)
 - Adaptive application: https://bakayalexander.github.io/russian-travel/
 - Vanilla JS(OOP): https://github.com/BakayAlexander/mesto
 - Routing (React): https://bakayalexander.github.io/blog-react
