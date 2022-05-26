@@ -19,14 +19,15 @@
 
 
 ### 👨‍💻 My projects:
-- Static application: [Balaklava project(gh pages)](https://bakayalexander.github.io/balaklava-project)
-- Adaptive application: [Russian travel(gh pages)](https://bakayalexander.github.io/russian-travel)
-- Vanilla JS(OOP): [Mesto](https://github.com/BakayAlexander/mesto)
-- Routing (React): [Personal blog(gh pages)](https://bakayalexander.github.io/blog-react)
-- SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
-- Study diploma project (React): [Diploma Movies Explorer](http://bakay.nomoredomains.work)
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
-  
+- Simple task manager(React + Redux): [Repository Simple task manager](https://github.com/BakayAlexander/task-manager)
+- Study diploma project (React): [Diploma Movies Explorer](http://bakay.nomoredomains.work)
+- SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
+- Routing (React): [Personal blog(gh pages)](https://bakayalexander.github.io/blog-react)
+- Vanilla JS(OOP): [Mesto](https://github.com/BakayAlexander/mesto)
+- Adaptive application: [Russian travel(gh pages)](https://bakayalexander.github.io/russian-travel)
+- Static application: [Balaklava project(gh pages)](https://bakayalexander.github.io/balaklava-project)
+
   
 ### 🎓  Courses
   
