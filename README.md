@@ -32,7 +32,12 @@
 
 #### 🏊‍♂️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
+  
 <!--END_SECTION:waka-->
+</td>
+<td valign="top" width="50%">
+#### 📈 my github stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=gotham" alt="bakayalexandergit" />
 </td>
 </tr>
 
