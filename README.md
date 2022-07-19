@@ -3,9 +3,7 @@
 </h1>  
 
 ### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, Frontend Developer.
-  
-  
-[![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)     
+    
 <br />
 
 ### :rocket: Languages and Tools:
@@ -82,7 +80,9 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--   <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" /> -->
-  
+ 
+ <p align="center"> [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)   
+ 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=dracula&hide=stars,issues" alt="bakayalexandergit" />
 
 <p align="center"> <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
