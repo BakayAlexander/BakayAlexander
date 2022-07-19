@@ -28,7 +28,10 @@
 - Adaptive application: [Russian travel(gh pages)](https://bakayalexander.github.io/russian-travel)
 - Static application: [Balaklava project(gh pages)](https://bakayalexander.github.io/balaklava-project)
 
+### 🎓  Simple study projects
   
+- Infinite Scroll(React + React Query): [Repository Simple task manager](https://github.com/BakayAlexander/task-manager)[Public web app](https://bakay-react-inf-scroll.netlify.app/)
+
 ### 🎓  Courses
   
 - Yandex.Praktikum (Web Developer)  
