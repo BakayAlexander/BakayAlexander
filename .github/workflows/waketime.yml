@@ -1,17 +1,43 @@
-name: Wakatime Charts
+name: Waka Readme
 
 on:
-  push:
-  workflow_dispatch:
+
   schedule:
-    - cron:  '0 * * * *'
+
+    # Runs every 4 hours
+
+    - cron: '0 */4 * * *'
+
+  workflow_dispatch:
 
 jobs:
-  update-charts:
-    name: Update wakatime stats charts
+
+  update-readme:
+
+    name: Update Readme with Metrics
+
     runs-on: ubuntu-latest
+
     steps:
-      - uses: BakayAlexander/wakatime-charts@master
+
+      - uses: anmol098/waka-readme-stats@master
+
         with:
+
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }} # only required if using the action in repository other than profile
+
+          SHOW_OS: "True"
+
+          SHOW_PROJECTS: "True"
+
+          SHOW_PROFILE_VIEWS: "False"
+
+          SHOW_EDITORS: "False"
+
+          SHOW_LANGUAGE_PER_REPO: "True"
+
+          SHOW_LOC_CHART: "False"
+
+          SHOW_LINES_OF_CODE: "True"
+
+          SHOW_SHORT_INFO: "False"
