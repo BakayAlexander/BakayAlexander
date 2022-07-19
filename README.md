@@ -3,7 +3,8 @@
 </h1>  
 
 ### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, Frontend Developer.
-   
+  
+  
 [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)     
 <br />
 
