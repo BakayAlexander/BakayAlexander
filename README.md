@@ -24,7 +24,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="26" height="26" align="left" />
 <br />
 
-[![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)    
+  [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)    
 
 
 <br />
