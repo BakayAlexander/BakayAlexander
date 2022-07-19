@@ -11,7 +11,7 @@
 
 <!-- #### I'm in love with Frontend 👻 -->
 ### :rocket: Languages and Tools:
-🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB  [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)  
+🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB  
 🔜 Vue  
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -23,6 +23,7 @@
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="26" height="26" align="left"  />
+[![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)  
 
 
 <br />
