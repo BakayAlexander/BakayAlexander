@@ -7,7 +7,7 @@
 
 
 ## I'm in love with Frontend 👻
-### Languages and Tools:
+### :rocket: Languages and Tools:
 🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB  
 🔜 Vue  
   
@@ -63,7 +63,7 @@
   
 I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
   
-### Connect with me:
+### :iphone: Connect with me:
   
 [![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/alexander-bakay-b6b041224/#gh-light-mode-only)
 [![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-bakay-b6b041224/#gh-dark-mode-only)
