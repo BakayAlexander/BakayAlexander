@@ -63,3 +63,6 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 
 [linkedin]: https://www.linkedin.com/in/alexander-bakay-b6b041224/
 [facebook]: https://www.facebook.com/alexanderbakay92
+
+
+<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
