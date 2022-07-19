@@ -1,11 +1,11 @@
 ### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, Frontend Developer.
 
-[![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/small)](https://www.codewars.com/users/BakayAlexander)  
+[![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)  
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bakay-b6b041224/) -->
   
 
 
-## I'm in love with Frontend 👻
+#### I'm in love with Frontend 👻
 ### :rocket: Languages and Tools:
 🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB  
 🔜 Vue  
