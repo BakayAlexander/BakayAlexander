@@ -20,7 +20,7 @@
 
 ### 👨‍💻 My projects:
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
-- Study diploma project (React): [Diploma Movies Explorer](http://bakay.nomoredomains.work)
+- Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) [Diploma Movies Explorer][Repository backend](https://github.com/BakayAlexander/movies-explorer-api)(http://bakay.nomoredomains.work)
 - SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
 - Routing (React): [Personal blog(gh pages)](https://bakayalexander.github.io/blog-react)
 - Vanilla JS(OOP): [Mesto](https://github.com/BakayAlexander/mesto)
@@ -29,8 +29,8 @@
 
 ### 🎓  Simple study projects
   
-- Infinite scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and [Web App Netlify](https://bakay-react-inf-scroll.netlify.app/)
-- Simple blog manager(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/blog-manager) and [Web App Netlify](https://blog-manager-bakay.netlify.app/)
+- Infinite scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and [Infinite Scroll](https://bakay-react-inf-scroll.netlify.app/)
+- Simple blog manager(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/blog-manager) and [Simple Blog Manager](https://blog-manager-bakay.netlify.app/)
 - Simple task manager(React + Redux): [Repository](https://github.com/BakayAlexander/task-manager)
 
 ### 🎓  Courses
