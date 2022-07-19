@@ -30,7 +30,7 @@
 
 ### 🎓  Simple study projects
   
-- Infinite Scroll(React + React Query): [Repository Simple task manager](https://github.com/BakayAlexander/task-manager)[Public web app](https://bakay-react-inf-scroll.netlify.app/)
+- Infinite Scroll(React + React Query): [Repository Simple task manager](https://github.com/BakayAlexander/task-manager) and [Public web app](https://bakay-react-inf-scroll.netlify.app/)
 
 ### 🎓  Courses
   
