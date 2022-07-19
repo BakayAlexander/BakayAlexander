@@ -28,7 +28,7 @@
 <br />
 
 <tr>
-<td valign="top" width="50%">
+<td width="50%">
 
 #### 🏊‍♂️ Weekly Development Breakdown
 <!--START_SECTION:waka-->
@@ -36,7 +36,7 @@
   <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" />
  https://raw.githubusercontent.com/<username>/<repository>/<branch_name>/<images_folder>/<chart_name>.svg
 </td>
-<td valign="bottom" width="50%">
+<td width="50%">
   
 #### 📈 my github stats
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=dracula&hide=stars,issues" alt="bakayalexandergit" />
