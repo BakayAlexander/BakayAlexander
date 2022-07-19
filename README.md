@@ -81,9 +81,7 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 <!--END_SECTION:waka-->
 <!--   <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" /> -->
  
- <p align="center"> 
-  
-  [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)   
+ <p align="center">      [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)   
  
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=dracula&hide=stars,issues" alt="bakayalexandergit" />
 
