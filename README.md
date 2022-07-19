@@ -102,4 +102,4 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 [instagram]: https://www.instagram.com/bakay.alexander/
 
 
-<img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p align="center"> <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
