@@ -38,7 +38,7 @@
 <td valign="bottom" width="50%">
   
 #### 📈 my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=gotham" alt="bakayalexandergit" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=dracula" alt="bakayalexandergit" />
 </td>
 </tr>
 
