@@ -79,12 +79,11 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
   <br />
 
 
-<p align="left"> #### 🏊‍♂️ Weekly Development Breakdown
+<!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 <!--   <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" /> -->
   
-<p align="center">#### 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BakayAlexander&show_icons=true&theme=dracula&hide=stars,issues" alt="bakayalexandergit" />
 
 <p align="center"> <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
