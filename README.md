@@ -7,7 +7,7 @@
 [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander)  
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bakay-b6b041224/) -->
   
-
+<br />
 
 <!-- #### I'm in love with Frontend 👻 -->
 ### :rocket: Languages and Tools:
@@ -38,7 +38,7 @@
 - Adaptive application: [Russian travel(gh pages)](https://bakayalexander.github.io/russian-travel)
 - Static application: [Balaklava project(gh pages)](https://bakayalexander.github.io/balaklava-project)
 
-
+<br />
 
 
 ### :shinto_shrine:  Simple study projects
@@ -47,7 +47,7 @@
 - Simple blog manager(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/blog-manager) and Web app: [Simple Blog Manager](https://blog-manager-bakay.netlify.app/)
 - Cats pinterest(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/frontend-challenge) and Web app: [Cats pinterest](https://bakay-cats-pinterest.netlify.app/)
 
-
+<br />
 
 
 ### 🎓  Courses
@@ -58,14 +58,14 @@
 - Alexander Lushenko (Arrays in JS course)  
 - Hours of YouTube videos
 
-
+<br />
 
 
 ### 🙋 About me:
   
 I'm a sociable guy with a wide spectrum of interests (from Renaissance architecture to the architecture of modern nano-processors). I'm a junior developer only interested in experience, and it will be great to get it in a great company of like-minded people. 
 
-
+<br />
 
 
 ### :iphone: Connect with me:
@@ -76,7 +76,7 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 [![website](./images/instagram-dark.svg)](https://www.instagram.com/bakay.alexander/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-  <br />
+<br />
 
 
 <!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
