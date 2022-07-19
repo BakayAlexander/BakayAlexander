@@ -30,7 +30,7 @@
 
 ### 🎓  Simple study projects
   
-- Infinite Scroll(React + React Query): [Repository]:(https://github.com/BakayAlexander/react_infinite_scroll) and [Web App Netlify]:(https://bakay-react-inf-scroll.netlify.app/)
+- Infinite Scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and [Web App Netlify](https://bakay-react-inf-scroll.netlify.app/)
 
 ### 🎓  Courses
   
