@@ -1,4 +1,4 @@
-### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, junior Frontend Developer. I have experience in working with HTML, CSS, JavaScript, React and Node.js
+### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, Frontend Developer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexander-bakay-b6b041224/)  
   
@@ -32,6 +32,7 @@
 - Simple task manager(React + Redux): [Repository](https://github.com/BakayAlexander/task-manager) and Web app: [Simple task manager](https://bakay-task-manager.netlify.app/). Please check repo for admin rights.
 - Infinite scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and Web app: [Infinite Scroll](https://bakay-react-inf-scroll.netlify.app/)
 - Simple blog manager(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/blog-manager) and Web app: [Simple Blog Manager](https://blog-manager-bakay.netlify.app/)
+- Cats pinterest(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/frontend-challenge) and Web app: [Cats pinterest](https://bakay-cats-pinterest.netlify.app/)
 
 
 ### 🎓  Courses
