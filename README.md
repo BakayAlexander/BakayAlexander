@@ -20,7 +20,7 @@
 
 ### 👨‍💻 My projects:
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
-- Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) [Diploma Movies Explorer][Repository backend](https://github.com/BakayAlexander/movies-explorer-api)(http://bakay.nomoredomains.work)
+- Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) [Repository backend](https://github.com/BakayAlexander/movies-explorer-api)[Diploma Movies Explorer](http://bakay.nomoredomains.work)
 - SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
 - Routing (React): [Personal blog(gh pages)](https://bakayalexander.github.io/blog-react)
 - Vanilla JS(OOP): [Mesto](https://github.com/BakayAlexander/mesto)
