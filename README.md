@@ -34,6 +34,8 @@
 <!--START_SECTION:waka-->
   
 <!--END_SECTION:waka-->
+  <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" />
+ https://raw.githubusercontent.com/<username>/<repository>/<branch_name>/<images_folder>/<chart_name>.svg
 </td>
 <td valign="bottom" width="50%">
   
