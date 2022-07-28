@@ -79,7 +79,6 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 <!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-<!--   <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/images/wakatime_weekly_language_stats.svg" /> -->
  
 [![Profile badge](https://www.codewars.com/users/BakayAlexander/badges/large)](https://www.codewars.com/users/BakayAlexander) <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=BakayAlexander&repo=BakayAlexander&countColorcountColor&countColor=%237B1E7B"/>
  
