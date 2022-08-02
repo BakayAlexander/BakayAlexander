@@ -28,6 +28,7 @@
 
 ### 👨‍💻 My projects:
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
+- Netflix clone(Next + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/netflix-2022) and Web app: [Netflix 2022](https://bakay-netflix.netlify.app). Please check repo for test user data.
 - Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) and  [Repository backend](https://github.com/BakayAlexander/movies-explorer-api) and Web app: [Diploma Movies Explorer](http://bakay.nomoredomains.work)
 - SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
 - Routing (React): [Personal blog(gh pages)](https://bakayalexander.github.io/blog-react)
