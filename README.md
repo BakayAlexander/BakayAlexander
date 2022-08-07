@@ -76,6 +76,9 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 
 <br />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
 
