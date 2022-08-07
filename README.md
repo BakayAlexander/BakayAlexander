@@ -76,8 +76,7 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 
 <br />
 
-  <img src="https://github.com/<username>/<repository-name>/blob/master/images/codeStats.svg" alt="Alternative Text"/>
-  Example: <img src="https://github.com/tariksahni/tariksahni/blob/master/codeStats.svg" alt="My Coding Activity/>
+  <img src="https://github.com/BakayAlexander/BakayAlexander/blob/master/images/codeStats.svg" alt="Weekly Development Breakdown"/>
 
 
 <!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
