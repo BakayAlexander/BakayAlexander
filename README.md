@@ -77,6 +77,10 @@ I'm a sociable guy with a wide spectrum of interests (from Renaissance architect
 <br />
 
   <img src="https://github.com/BakayAlexander/BakayAlexander/blob/master/images/codeStats.svg" alt="Weekly Development Breakdown"/>
+  
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 
 <!-- <p align="left"> #### 🏊‍♂️ Weekly Development Breakdown -->
