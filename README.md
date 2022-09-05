@@ -28,6 +28,7 @@
 
 ### 👨‍💻 My projects:
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
+- LinkedIn clone (Next+ TypeScript + Redux + Tailwind + MongoDB ): [Repository](https://github.com/BakayAlexander/linkedin-2022) and Web app: [LinkedIn 2022](https://bakay-linkedin.vercel.app). Please check repo for test user data or you can register a new one.
 - Netflix clone (Next + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/netflix-2022) and Web app: [Netflix 2022](https://bakay-netflix.netlify.app). Please check repo for test user data or you can register a new one.
 - Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) and  [Repository backend](https://github.com/BakayAlexander/movies-explorer-api) and Web app: [Diploma Movies Explorer](http://bakay.nomoredomains.work)
 - SPA (React): [Mesto React(gh pages)](https://mesto.bakay.students.nomoredomains.work)
