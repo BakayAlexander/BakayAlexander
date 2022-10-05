@@ -7,8 +7,7 @@
 <br />
 
 ### :rocket: Languages and Tools:
-🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB  
-🔜 Vue  
+🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB, Tailwind, Stripe, Firebase, Chakra UI, Recoil  
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" align="left"  />
@@ -27,6 +26,8 @@
 
 
 ### 👨‍💻 My projects:
+- Reseller App (Next + TS  + Redux + Tailwind + Firebase + Stripe): [Repository](https://github.com/BakayAlexander/apple-reseller) and Web app: [Reseller](https://apple-reseller.vercel.app/)
+- Reddit clone (Next + TS  + Recoil + Chakra UI + Firebase): [Repository](https://github.com/BakayAlexander/reddit-2022) and Web app: [Reddit](https://reddit-2022.vercel.app/)
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
 - LinkedIn clone (Next+ TypeScript + Redux + Tailwind + MongoDB ): [Repository](https://github.com/BakayAlexander/linkedin-2022) and Web app: [LinkedIn 2022](https://bakay-linkedin.vercel.app). Please check repo for test user data or you can register a new one.
 - Netflix clone (Next + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/netflix-2022) and Web app: [Netflix 2022](https://bakay-netflix.netlify.app). Please check repo for test user data or you can register a new one.
