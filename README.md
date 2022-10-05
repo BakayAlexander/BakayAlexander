@@ -40,7 +40,8 @@
 <br />
 
 
-### :shinto_shrine:  Simple study projects
+### :shinto_shrine:  Simple study projects 
+- Profile tracker (React + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/task_tracker_complex) and Web app: [Profile tracker](https://task-tracker-complex.vercel.app/)
 - Simple task manager(React + Redux): [Repository](https://github.com/BakayAlexander/task-manager) and Web app: [Simple task manager](https://bakay-task-manager.netlify.app/). Please check repo for admin rights.
 - Infinite scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and Web app: [Infinite Scroll](https://bakay-react-inf-scroll.netlify.app/)
 - Simple blog manager(React + Redux Toolkit): [Repository](https://github.com/BakayAlexander/blog-manager) and Web app: [Simple Blog Manager](https://blog-manager-bakay.netlify.app/)
