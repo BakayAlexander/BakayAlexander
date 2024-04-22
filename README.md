@@ -7,7 +7,7 @@
 <br />
 
 ### :rocket: Languages and Tools:
-🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js,  Node.js, Webpack, SCSS, Express.js, MongoDB, Tailwind, Stripe, Firebase, Chakra UI, Recoil  
+🔰 React, Redux, TypeScript, ReactNative, React Query, Next.js, Node.js, Webpack, SCSS, Express.js, MongoDB, Tailwind, Stripe, Firebase, Chakra UI, Recoil, Zustand  
   
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="26" height="26" align="left"  />
@@ -26,6 +26,7 @@
 
 
 ### 👨‍💻 My projects:
+- Eyestock App (Next + TS + Zustand + Modules CSS + WebSockets + Stripe): Web app [Eyestock](https://eyestock.io/)
 - Reseller App (Next + TS  + Redux + Tailwind + Firebase + Stripe): [Repository](https://github.com/BakayAlexander/apple-reseller) and Web app: [Reseller](https://apple-reseller.vercel.app/)
 - Reddit clone (Next + TS  + Recoil + Chakra UI + Firebase): [Repository](https://github.com/BakayAlexander/reddit-2022) and Web app: [Reddit](https://reddit-2022.vercel.app/)
 - Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
