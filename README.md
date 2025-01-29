@@ -79,7 +79,7 @@ I'm a sociable person with a broad range of interests, from Renaissance architec
 <img align="center" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </p>
 
-[linkedin]: https://www.linkedin.com/in/alexander-bakay-b6b041224/
-[instagram]: https://www.instagram.com/bakay.alexander/
+[linkedin]: https://www.linkedin.com/in/aleksanrd-bakai/
+[instagram]: https://www.instagram.com/alex.bakai/
 
 <br />
