@@ -48,16 +48,6 @@
 
 <br />
 
-### 🎓 Courses
-  
-- **Yandex.Praktikum** – Web Developer  
-- **LearnJS** – JavaScript Course  
-- **Vladilen Minin** – React Course  
-- **Alexander Lushenko** – Arrays in JS Course  
-- **Hours of YouTube Videos**  
-
-<br />
-
 ### 🙋 About Me:
   
 I'm a sociable person with a broad range of interests, from Renaissance architecture to modern nano-processor design. I am deeply passionate about gaining experience and knowledge in frontend development.
