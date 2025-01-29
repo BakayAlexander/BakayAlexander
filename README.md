@@ -27,9 +27,15 @@
 
 ### 👨‍💻 My projects:
 - Eyestock App (Next + TS + Zustand + Modules CSS + WebSockets + Stripe): Web app [Eyestock](https://eyestock.io/)
+- Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
+
+
+<br />
+
+
+### :shinto_shrine:  Study projects 
 - Reseller App (Next + TS  + Redux + Tailwind + Firebase + Stripe): [Repository](https://github.com/BakayAlexander/apple-reseller) and Web app: [Reseller](https://apple-reseller.vercel.app/)
 - Reddit clone (Next + TS  + Recoil + Chakra UI + Firebase): [Repository](https://github.com/BakayAlexander/reddit-2022) and Web app: [Reddit](https://reddit-2022.vercel.app/)
-- Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
 - LinkedIn clone (Next+ TypeScript + Redux + Tailwind + MongoDB ): [Repository](https://github.com/BakayAlexander/linkedin-2022) and Web app: [LinkedIn 2022](https://bakay-linkedin.vercel.app). Please check repo for test user data or you can register a new one.
 - Netflix clone (Next + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/netflix-2022) and Web app: [Netflix 2022](https://bakay-netflix.netlify.app). Please check repo for test user data or you can register a new one.
 - Study diploma project (Frontend(React) + Backend(Express.js, Mongodb)): [Repository frontend](https://github.com/BakayAlexander/movies-explorer-frontend) and  [Repository backend](https://github.com/BakayAlexander/movies-explorer-api) and Web app: [Diploma Movies Explorer](http://bakay.nomoredomains.work)
@@ -38,11 +44,6 @@
 - Vanilla JS(OOP): [Mesto](https://github.com/BakayAlexander/mesto)
 - Adaptive application: [Russian travel(gh pages)](https://bakayalexander.github.io/russian-travel)
 - Static application: [Balaklava project(gh pages)](https://bakayalexander.github.io/balaklava-project)
-
-<br />
-
-
-### :shinto_shrine:  Simple study projects 
 - Profile tracker (React + Redux + Tailwind + Firebase): [Repository](https://github.com/BakayAlexander/task_tracker_complex) and Web app: [Profile tracker](https://task-tracker-complex.vercel.app/)
 - Simple task manager(React + Redux): [Repository](https://github.com/BakayAlexander/task-manager) and Web app: [Simple task manager](https://bakay-task-manager.netlify.app/). Please check repo for admin rights.
 - Infinite scroll(React + React Query): [Repository](https://github.com/BakayAlexander/react_infinite_scroll) and Web app: [Infinite Scroll](https://bakay-react-inf-scroll.netlify.app/)
