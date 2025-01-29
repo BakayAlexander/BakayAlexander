@@ -56,10 +56,10 @@ I'm a sociable person with a broad range of interests, from Renaissance architec
 
 ### :iphone: Connect with Me:
   
-[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/alexander-bakay-b6b041224/#gh-light-mode-only)
-[![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/alexander-bakay-b6b041224/#gh-dark-mode-only)
-[![website](./images/instagram-light.svg)](https://www.instagram.com/bakay.alexander/#gh-light-mode-only)
-[![website](./images/instagram-dark.svg)](https://www.instagram.com/bakay.alexander/#gh-dark-mode-only)
+[![website](./images/linkedin-light.svg)](https://www.linkedin.com/in/aleksanrd-bakai/#gh-light-mode-only)
+[![website](./images/linkedin-dark.svg)](https://www.linkedin.com/in/aleksanrd-bakai/#gh-dark-mode-only)
+[![website](./images/instagram-light.svg)](https://www.instagram.com/alex.bakai/#gh-light-mode-only)
+[![website](./images/instagram-dark.svg)](https://www.instagram.com/alex.bakai/#gh-dark-mode-only)
 &nbsp;&nbsp;
 
 <br />
