@@ -1,8 +1,8 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/master/images/name.svg" alt="Alexander Bakay" />
-</h1>  
+//<h1 align="center">
+  //<img src="https://raw.githubusercontent.com/BakayAlexander/BakayAlexander/master/images/name.svg" alt="Alexander Bakay" />
+//</h1>  
 
-### 👋 Hey! Glad to welcome you in my profile. I’m Alexander Bakay, Frontend Developer.
+### 👋 Hey! Glad to welcome you in my profile. I’m Alex Bakai, Frontend Developer.
     
 <br />
 
@@ -25,7 +25,7 @@
 <br />
 
 
-### 👨‍💻 My projects:
+### 👨‍💻 Pet projects:
 - Eyestock App (Next + TS + Zustand + Modules CSS + WebSockets + Stripe): Web app [Eyestock](https://eyestock.io/)
 - Yact & Car rental App (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
 
