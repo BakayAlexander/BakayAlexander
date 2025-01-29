@@ -27,7 +27,7 @@
 
 ### 👨‍💻 My projects:
 - Eyestock App (Next + TS + Zustand + Modules CSS + WebSockets + Stripe): Web app [Eyestock](https://eyestock.io/)
-- Commercial application (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
+- Yact & Car rental App (React + Styled Components): [Magnolia charter](https://magnolia-charter.com)
 
 
 <br />
